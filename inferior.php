@@ -4,7 +4,6 @@ echo '
 	</div>
 
 	<script src="js/foundation.min.js"></script>
-<!--
 
 <script src="js/foundation/foundation.js"></script>
 
@@ -37,8 +36,6 @@ echo '
 <script src="js/foundation/foundation.section.js"></script>
 
 <script src="js/foundation/foundation.topbar.js"></script>
-
--->
 
 <script>
 $(document).foundation();
